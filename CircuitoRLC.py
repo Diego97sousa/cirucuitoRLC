@@ -12,8 +12,6 @@ capa = float (input('Digite a capacitancia do Capacitor em farads: \n'))
 
 bobi = float (input('Digite a indutancia da Bobina em henrys: \n'))
 
-corr =  tens / resi
-
 
 xc = 1/ (6.28 * freq * capa)
 
